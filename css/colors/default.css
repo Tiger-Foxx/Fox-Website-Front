@@ -21,7 +21,7 @@
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span,
 .sidebar .widget .tagcloud > a:hover {
-    background-color: #e54b4b !important;
+    background-color: #1ba993 !important;
 }
 
 .text-primary,
@@ -49,7 +49,7 @@
 .sidebar .widget .catagories li a:hover,
 .sidebar .widget .post-recent .post-recent-content a:hover,
 .comment-area .media-list .media .media-body a:hover {
-    color: #e54b4b !important;
+    color: #58d5c2 !important;
 }
 
 .btn-primary,
@@ -67,12 +67,12 @@
 .section-title .titles span:before, 
 .section-title .titles span:after,
 .owl-theme .owl-controls .owl-page span {
-    border-color: #e54b4b !important;
+    border-color: #58d5c2 !important;
 }
 
 a.text-primary:hover, 
 a.text-primary:focus {
-    color: #dd2020 !important;
+    color: #1ba993 !important;
 }
 
 .btn-primary,
@@ -82,7 +82,7 @@ a.text-primary:focus {
 .btn-outline-primary.active, 
 .btn-outline-primary.focus, 
 .btn-outline-primary:not(:disabled):not(.disabled):active {
-    box-shadow: 0 3px 5px 0 rgba(229, 75, 75, 0.3);
+    box-shadow: 0 3px 5px 0 #106b5d61;
 }
 
 .btn-primary:hover, 
@@ -90,6 +90,6 @@ a.text-primary:focus {
 .btn-primary:active, 
 .btn-primary.active, 
 .btn-primary.focus {
-    background-color: #dd2020 !important;
-    border-color: #dd2020 !important;
+    background-color: #1ba993 !important;
+    border-color: #1ba993 !important;
 }
